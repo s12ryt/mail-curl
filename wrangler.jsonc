@@ -1,0 +1,22 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "mail-curl",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-03-10",
+	"observability": {
+		"enabled": true
+	},
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "mail-curl-db",
+			"database_id": "YOUR_DB_ID"
+		}
+	],
+	"vars": {
+		"domain": "domain.com"
+	}
+}
