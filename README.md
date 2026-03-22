@@ -2,6 +2,10 @@
 
 一個使用 Cloudflare Workers + D1 實現的臨時郵箱服務，支持 Cloudflare Email Routing (catch-all)。
 
+# 注意:當前原碼已不再更新,請下載旁邊Releases的完整壓縮包
+
+
+
 ## 功能
 
 - `GET /` - 返回 "made by yoyo qwq"
