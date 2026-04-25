@@ -4,6 +4,8 @@
 
 # 注意:當前原碼已不再更新,請下載旁邊Releases的完整壓縮包
 
+# 已有V2版本在: https://github.com/s12ryt/mail-curl-v2
+
 ## 功能
 
 - `GET /` - 返回 "made by yoyo qwq"
